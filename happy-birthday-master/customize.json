@@ -1,0 +1,23 @@
+{
+  "greeting": "美丽的",
+  "name": "梁雪吟女士",
+  "greetingText": "今天是个特别的日子",
+  "wishText": "希望你天天开心，年年美丽！！;)",
+  "imagePath": "img/lxy.png",
+  "text1": "今天是你的生日！ :D",
+  "textInChatBox": "女生喜欢什么生日礼物...",
+  "sendButtonLabel": "搜索",
+  "text2": "本来能够送你礼物",
+  "text3": "但是因为疫情。",
+  "text4": "我不得不另想办法准备",
+  "text4Adjective": "生日礼物",
+  "text5Entry": "总之,",
+  "text5Content": "希望你能喜欢",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "祝愿新的一年身体健康，梦想成真.",
+  "replayText": "点这里可以重复播放哦",
+  "outroSmiley": ":)"
+}
